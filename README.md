@@ -1,4 +1,4 @@
-# SMStoTelegram
+# PilihanTarifBRImo
 
 Send SMS from Target Device to your Telegram
 https://smj.ltd/SMStoTelegram
